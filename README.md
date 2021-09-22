@@ -2,16 +2,16 @@
 
 This tool is made for MANTHAN Compadition This tool is used for find the attacker in instagram in 4 module 
 
-1)find the attacker using web Scraping 
+Module  1)find the attacker using web Scraping 
 
 
-2)find the attacker information 
+Module  2)find the attacker information 
 
 
-3)find the attacker Location
+Module  3)find the attacker Location
 
 
-4)find the image details
+Module  4)find the image details
 
 Tool working video 
 
