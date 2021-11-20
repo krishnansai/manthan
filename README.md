@@ -14,6 +14,10 @@ Module  3)find the attacker Location
 Module  4)find the image details
 
 
+Blogg link :-
+
+https://twinsaitechie.blogspot.com/2021/09/terrorist-tracker-toolkit.html
+
 
 Tool working video 
 
